@@ -1,29 +1,18 @@
-# comp-api
+# Vue 2 проект онлайн-магазина ( изучение Vue ).
 
-## Project setup
-```
-npm install
-```
+## Для запуска проекта:
+1. Клонируйте проект из репозитория
+2. Откройте его в редакторе кода
+3. Выполните команды:
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
-```
+npm install  // Установка зависимостей
 
-### Compiles and minifies for production
-```
-npm run build
+npm run start-json-server  // Запуск локального json-сервера
+
+npm run serve  // Запуск приложения
 ```
 
-### Run your tests
-```
-npm run test
-```
+> Команды 'npm run start-json-server' и 'npm run serve' нужно выполнять в разных окнах терминала.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4. Перейдите по ссылке, которая появится в терминале после выполнения команды 'npm run serve'
