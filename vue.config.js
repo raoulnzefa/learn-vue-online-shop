@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: '/learn-vue-online-shop/',
   css: {
     loaderOptions: {
       sass: {
